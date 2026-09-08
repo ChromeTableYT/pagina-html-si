@@ -1,0 +1,22 @@
+html{
+    background-color: rgb(43, 43, 43);
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#title1{
+    text-align: center;
+    align-self: center;
+    font-size: 100px;
+    color: aliceblue;
+    border-bottom: 2px solid aliceblue;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+#FP{
+    color: gold;
+}
