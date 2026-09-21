@@ -58,5 +58,24 @@ h2{
 
 .box:hover {
   background-color: #6d6d00;
-  transform: scale(1.05); /* Agranda ligeramente el botón */
+  transform: scale(1.05);
+}
+
+.descripcion{
+    font-size: 20px;
+    color: aliceblue;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 2%;
+    width: 40%;
+    border: 2px solid aliceblue;
+    padding: 20px;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(75, 75, 75);
+    color: aliceblue;
 }
