@@ -65,7 +65,6 @@ h2{
     color: aliceblue;
     background-color: rgb(75, 75, 75);
     
-    /* Propiedades para centrar el cuadro */
     width: 70%;
     margin-left: auto;
     margin-right: auto;
@@ -74,8 +73,7 @@ h2{
     border: 2px solid aliceblue;
     border-radius: 10px;
     padding: 20px;
-
-    /* Estilo en fila para que el texto y la imagen se vean ordenados dentro del cuadro */
+    
     display: flex;
     align-items: center;
     gap: 20px;
